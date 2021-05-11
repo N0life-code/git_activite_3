@@ -1,1 +1,1 @@
-alert("hello les gens !");
+alert("c'est chiant");
